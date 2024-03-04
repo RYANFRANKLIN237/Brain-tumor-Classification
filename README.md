@@ -7,6 +7,8 @@
 # ![Screenshot (82)](https://github.com/RYANFRANKLIN237/Brain-tumor-Classification/assets/95378076/dc936f53-9b09-4806-9d87-2d93d8241d0a)
 # ![Screenshot (83)](https://github.com/RYANFRANKLIN237/Brain-tumor-Classification/assets/95378076/0e7793ba-9e61-4475-a133-8801f20d2b35)
 # ![Screenshot (84)](https://github.com/RYANFRANKLIN237/Brain-tumor-Classification/assets/95378076/ae1c45fc-bd0d-492a-861e-4b50c21495d8)
+# ![Screenshot (85)](https://github.com/RYANFRANKLIN237/Brain-tumor-Classification/assets/95378076/8accb849-0cec-49cc-90cb-9d74c5a407e3)
+
 
 
 
